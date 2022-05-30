@@ -1,0 +1,1329 @@
+/* header-box */
+
+position: absolute;
+width: 1402.27px;
+height: 709px;
+left: 258px;
+top: 68px;
+
+
+
+/* logo-mark-h */
+
+position: absolute;
+left: 13.54%;
+right: 83.43%;
+top: 1.36%;
+bottom: 97.44%;
+
+
+
+/* logo-mark-p1 */
+
+position: absolute;
+left: 14.62%;
+right: 84.51%;
+top: 1.86%;
+bottom: 97.89%;
+
+background: #37B676;
+
+
+/* logo-mark-p2 */
+
+position: absolute;
+left: 13.77%;
+right: 85.19%;
+top: 1.36%;
+bottom: 98.23%;
+
+background: #1C1C1C;
+
+
+/* logo-mark-p3 */
+
+position: absolute;
+left: 13.54%;
+right: 83.43%;
+top: 1.95%;
+bottom: 97.44%;
+
+background: #37B676;
+
+
+/* logo-mark-p4 */
+
+position: absolute;
+left: 15.3%;
+right: 83.66%;
+top: 1.36%;
+bottom: 98.23%;
+
+background: #1C1C1C;
+
+
+/* logo-text-h */
+
+position: absolute;
+width: 141.67px;
+height: 34.03px;
+left: 378px;
+top: 80px;
+
+
+
+/* logo-text-p1 */
+
+position: absolute;
+left: 19.69%;
+right: 78.14%;
+top: 1.67%;
+bottom: 97.78%;
+
+background: #1C1C1C;
+
+
+/* logo-text-p2 */
+
+position: absolute;
+left: 21.64%;
+right: 78.18%;
+top: 2.12%;
+bottom: 97.83%;
+
+background: #1C1C1C;
+
+
+/* logo-text-p3 */
+
+position: absolute;
+left: 22.31%;
+right: 75.81%;
+top: 1.63%;
+bottom: 97.72%;
+
+background: #1C1C1C;
+
+
+/* logo-text-p4 */
+
+position: absolute;
+left: 22.79%;
+right: 72.93%;
+top: 1.6%;
+bottom: 97.72%;
+
+background: #1C1C1C;
+
+
+/* menu-acasa */
+
+position: absolute;
+width: 102px;
+height: 18px;
+left: 1159px;
+top: 88px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #1C1C1C;
+
+
+
+/* menu-galerie */
+
+position: absolute;
+width: 112px;
+height: 18px;
+left: 1261px;
+top: 88px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #909090;
+
+
+
+/* menu-preturi */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 1373px;
+top: 88px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #909090;
+
+
+
+/* shape-telefon */
+
+position: absolute;
+width: 176.82px;
+height: 60px;
+left: 1483.45px;
+top: 68px;
+
+border: 2px solid #37B676;
+box-sizing: border-box;
+border-radius: 100px;
+
+
+/* menu-telefon */
+
+position: absolute;
+width: 177px;
+height: 18px;
+left: 1483px;
+top: 88px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+color: #37B676;
+
+
+
+/* text-1 */
+
+position: absolute;
+width: 399px;
+height: 23px;
+left: 260px;
+top: 251px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #37B676;
+
+
+
+/* text-2 */
+
+position: absolute;
+width: 399px;
+height: 23px;
+left: 260px;
+top: 284px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #37B676;
+
+
+
+/* divider-line */
+
+position: absolute;
+width: 399.08px;
+height: 0px;
+left: 260px;
+top: 359px;
+
+border: 1px solid #37B676;
+
+
+/* title */
+
+position: absolute;
+width: 786px;
+height: 161px;
+left: 258px;
+top: 401px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+
+color: #1C1C1C;
+
+
+
+/* icon-location */
+
+position: absolute;
+left: 13.59%;
+right: 84.9%;
+top: 12.04%;
+bottom: 87.1%;
+
+background: #1C1C1C;
+
+
+/* text-location-1 */
+
+position: absolute;
+width: 326px;
+height: 16px;
+left: 334.27px;
+top: 603px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+color: #919191;
+
+
+
+/* text-location-2 */
+
+position: absolute;
+width: 326px;
+height: 23px;
+left: 334.27px;
+top: 622px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #1C1C1C;
+
+
+
+/* shape-button-1 */
+
+position: absolute;
+width: 169.82px;
+height: 60px;
+left: 260px;
+top: 717px;
+
+background: #23CB76;
+border-radius: 100px;
+
+
+/* text-button-1 */
+
+position: absolute;
+width: 170px;
+height: 18px;
+left: 260.27px;
+top: 737px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* shape-button-2 */
+
+position: absolute;
+width: 176.82px;
+height: 60px;
+left: 469.78px;
+top: 717px;
+
+border: 1px solid #1C1C1C;
+box-sizing: border-box;
+border-radius: 100px;
+
+
+/* text-button-2 */
+
+position: absolute;
+width: 176px;
+height: 18px;
+left: 470.27px;
+top: 737px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+color: #1C1C1C;
+
+
+
+/* ornament-box-back */
+
+position: absolute;
+width: 116.62px;
+height: 80.73px;
+left: 1579.04px;
+top: 299.38px;
+
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-b-1 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1579.04px;
+top: 416px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-2 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1614.92px;
+top: 416px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-3 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1650.8px;
+top: 416px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-4 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1579.04px;
+top: 380.12px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-5 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1614.92px;
+top: 380.12px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-6 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1650.8px;
+top: 380.12px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-7 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1579.04px;
+top: 344.24px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-8 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1614.92px;
+top: 344.24px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-9 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1650.8px;
+top: 344.24px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-10 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1579.04px;
+top: 308.36px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-11 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1614.92px;
+top: 308.36px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* circle-b-12 */
+
+position: absolute;
+width: 8.97px;
+height: 8.97px;
+left: 1650.8px;
+top: 308.36px;
+
+background: #909090;
+transform: rotate(-90deg);
+
+
+/* image-medics */
+
+position: absolute;
+width: 350px;
+height: 510px;
+left: 1182px;
+top: 263px;
+
+background: url(jonathan-borba-hl6uG9cHW5A-unsplash.jpg);
+border-radius: 210px 0px;
+
+
+/* ornament-box-front */
+
+position: absolute;
+width: 186px;
+height: 128.77px;
+left: 1078px;
+top: 725px;
+
+transform: rotate(-90deg);
+
+
+/* circle-f-1 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1078px;
+top: 539px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-2 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1135.23px;
+top: 539px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-3 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1192.46px;
+top: 539px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-4 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1078px;
+top: 596.23px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-5 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1135.23px;
+top: 596.23px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-6 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1192.46px;
+top: 596.23px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-7 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1078px;
+top: 653.46px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-8 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1135.23px;
+top: 653.46px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-9 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1192.46px;
+top: 653.46px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-10 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1078px;
+top: 710.69px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-11 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1135.23px;
+top: 710.69px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* circle-f-12 */
+
+position: absolute;
+width: 14.31px;
+height: 14.31px;
+left: 1192.46px;
+top: 710.69px;
+
+background: #23CB76;
+transform: matrix(0, 1, 1, 0, 0, 0);
+
+
+/* bottom-box */
+
+position: absolute;
+width: 1920px;
+height: 408px;
+left: 0px;
+top: 4552px;
+
+
+
+/* logo-mark-b */
+
+position: absolute;
+left: 13.54%;
+right: 83.43%;
+top: 91.04%;
+bottom: 7.76%;
+
+
+
+/* logo-mark-p1 */
+
+position: absolute;
+left: 14.62%;
+right: 84.51%;
+top: 91.54%;
+bottom: 8.21%;
+
+background: #FFFFFF;
+
+
+/* logo-mark-p2 */
+
+position: absolute;
+left: 13.77%;
+right: 85.19%;
+top: 91.04%;
+bottom: 8.55%;
+
+background: #292929;
+
+
+/* logo-mark-p3 */
+
+position: absolute;
+left: 13.54%;
+right: 83.43%;
+top: 91.63%;
+bottom: 7.76%;
+
+background: #FFFFFF;
+
+
+/* logo-mark-p4 */
+
+position: absolute;
+left: 15.3%;
+right: 83.66%;
+top: 91.04%;
+bottom: 8.55%;
+
+background: #292929;
+
+
+/* logo-text-b */
+
+position: absolute;
+width: 141.67px;
+height: 34.03px;
+left: 378px;
+top: 4564px;
+
+
+
+/* logo-text-p1 */
+
+position: absolute;
+left: 19.69%;
+right: 78.14%;
+top: 91.35%;
+bottom: 8.1%;
+
+background: #FFFFFF;
+
+
+/* logo-text-p2 */
+
+position: absolute;
+left: 21.64%;
+right: 78.18%;
+top: 91.8%;
+bottom: 8.15%;
+
+background: #FFFFFF;
+
+
+/* logo-text-p3 */
+
+position: absolute;
+left: 22.31%;
+right: 75.81%;
+top: 91.31%;
+bottom: 8.04%;
+
+background: #FFFFFF;
+
+
+/* logo-text-p4 */
+
+position: absolute;
+left: 22.79%;
+right: 72.93%;
+top: 91.28%;
+bottom: 8.04%;
+
+background: #FFFFFF;
+
+
+/* description */
+
+position: absolute;
+width: 600px;
+height: 115px;
+left: 260px;
+top: 4658px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* placer-icon-1 */
+
+position: absolute;
+left: 13.54%;
+right: 83.96%;
+top: 95.86%;
+bottom: 3.18%;
+
+background: #FFFFFF;
+
+
+/* icon-facebook */
+
+position: absolute;
+left: 14.48%;
+right: 84.9%;
+top: 96.1%;
+bottom: 3.4%;
+
+background: #292929;
+
+
+/* placer-icon-2 */
+
+position: absolute;
+visibility: hidden;
+left: 18.12%;
+right: 79.38%;
+top: 95.86%;
+bottom: 3.18%;
+
+background: #FFFFFF;
+
+
+/* icon-instagram */
+
+position: absolute;
+visibility: hidden;
+width: 23.98px;
+height: 24px;
+left: 359.9px;
+top: 4805px;
+
+
+
+/* instagram-p1 */
+
+position: absolute;
+left: 18.74%;
+right: 80.01%;
+top: 96.1%;
+bottom: 3.42%;
+
+background: #1C1C1C;
+
+
+/* instagram-p2 */
+
+position: absolute;
+left: 19.05%;
+right: 80.31%;
+top: 96.22%;
+bottom: 3.54%;
+
+background: #1C1C1C;
+
+
+/* instagram-p3 */
+
+position: absolute;
+left: 19.61%;
+right: 80.23%;
+top: 96.19%;
+bottom: 3.75%;
+
+background: #1C1C1C;
+
+
+/* placer-icon-3 */
+
+position: absolute;
+left: 18.12%;
+right: 79.38%;
+top: 95.86%;
+bottom: 3.18%;
+
+background: #FFFFFF;
+
+
+/* icon-twitter */
+
+position: absolute;
+left: 18.75%;
+right: 80%;
+top: 96.14%;
+bottom: 3.46%;
+
+background: #292929;
+
+
+/* placer-icon-4 */
+
+position: absolute;
+visibility: hidden;
+left: 22.7%;
+right: 74.8%;
+top: 95.86%;
+bottom: 3.18%;
+
+background: #FFFFFF;
+
+
+/* icon-linkedin */
+
+position: absolute;
+visibility: hidden;
+width: 21.98px;
+height: 21.95px;
+left: 449.89px;
+top: 4805.02px;
+
+
+
+/* linkedin-p1 */
+
+position: absolute;
+left: 23.45%;
+right: 76.28%;
+top: 96.24%;
+bottom: 3.46%;
+
+background: #292929;
+
+
+/* linkedin-p2 */
+
+position: absolute;
+left: 23.43%;
+right: 76.26%;
+top: 96.1%;
+bottom: 3.78%;
+
+background: #292929;
+
+
+/* linkedin-p3 */
+
+position: absolute;
+left: 23.82%;
+right: 75.42%;
+top: 96.23%;
+bottom: 3.46%;
+
+background: #292929;
+
+
+/* title-pagini */
+
+position: absolute;
+width: 265px;
+height: 28px;
+left: 999px;
+top: 4568px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* arrow-acasa */
+
+position: absolute;
+left: 52.08%;
+right: 47.58%;
+top: 93.28%;
+bottom: 6.5%;
+
+background: #292929;
+
+
+/* page-acasa */
+
+position: absolute;
+width: 235px;
+height: 23px;
+left: 1029px;
+top: 4658px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* arrow-servicii */
+
+position: absolute;
+left: 52.08%;
+right: 47.58%;
+top: 94.26%;
+bottom: 5.52%;
+
+background: #292929;
+
+
+/* page-servicii */
+
+position: absolute;
+width: 235px;
+height: 23px;
+left: 1029px;
+top: 4707px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* arrow-preturi */
+
+position: absolute;
+left: 52.08%;
+right: 47.58%;
+top: 95.24%;
+bottom: 4.54%;
+
+background: #292929;
+
+
+/* page-preturi */
+
+position: absolute;
+width: 235px;
+height: 23px;
+left: 1029px;
+top: 4756px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* arrow-contact */
+
+position: absolute;
+left: 52.08%;
+right: 47.58%;
+top: 96.22%;
+bottom: 3.56%;
+
+background: #292929;
+
+
+/* page-contact */
+
+position: absolute;
+width: 235px;
+height: 23px;
+left: 1029px;
+top: 4805px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* title-undegasiti */
+
+position: absolute;
+width: 316px;
+height: 28px;
+left: 1344px;
+top: 4568px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* icon-email */
+
+position: absolute;
+left: 70.08%;
+right: 28.88%;
+top: 94.22%;
+bottom: 5.5%;
+
+background: #292929;
+
+
+/* text-email */
+
+position: absolute;
+width: 270px;
+height: 23px;
+left: 1390px;
+top: 4707px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* icon-phone */
+
+position: absolute;
+left: 70.14%;
+right: 28.93%;
+top: 93.2%;
+bottom: 6.44%;
+
+background: #292929;
+
+
+/* text-phone */
+
+position: absolute;
+width: 270px;
+height: 23px;
+left: 1390px;
+top: 4658px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* icon-location */
+
+position: absolute;
+left: 70.24%;
+right: 29.04%;
+top: 95.16%;
+bottom: 4.45%;
+
+background: #292929;
+
+
+/* text-location */
+
+position: absolute;
+width: 270px;
+height: 46px;
+left: 1390px;
+top: 4756px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+
+
+/* divider-line-bottom */
+
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 4903px;
+
+border: 1px solid #FFFFFF;
+
+
+/* text-copyright */
+
+position: absolute;
+width: 777px;
+height: 23px;
+left: 262px;
+top: 4937px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.5);
+
+
+
+/* redirect-anpc */
+
+position: absolute;
+width: 113px;
+height: 23px;
+left: 1039px;
+top: 4937px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* redirect-termeni */
+
+position: absolute;
+width: 228px;
+height: 23px;
+left: 1152px;
+top: 4937px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* redirect-politica */
+
+position: absolute;
+width: 280px;
+height: 23px;
+left: 1380px;
+top: 4937px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+color: #FFFFFF;
+
